@@ -5,7 +5,7 @@
 Overview
 ---
 This is the driving behavior cloning project. Deep convolitional neural network was used to achieve the result.
-The project includes a simulator to drive car around two tracks.
+The project includes a simulator to drive car around two tracks. The simulator can be downloaded here: https://github.com/udacity/self-driving-car-sim
 The proposed model uses images of the track as input and calculates steering angle to keep virtual car on track.
 
 The project contains following files: 
